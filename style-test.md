@@ -1,7 +1,7 @@
 ---
 title: Documentation Style Test
 description: A temporary page demonstrating supported documentation styles.
-category: examples
+category: Examples
 order: 1
 slug: style-test
 ---
