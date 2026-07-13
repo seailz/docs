@@ -30,7 +30,7 @@ If your server supports multiple Minecraft versions, you will need to provide a 
 For the following versions:
 
 - Versions below 26.3-snapshot-3: Not supported by Ultimate Camera.
-- 26.3 (and snapshots after snapshot-3): use the [`26.3-snapshot-3`](//todo) resource pack.
+- 26.3 (and snapshots after snapshot-3): use the [`26.3-snapshot-3`](// todo) resource pack.
 
 :::
 
