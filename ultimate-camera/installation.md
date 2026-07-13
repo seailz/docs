@@ -17,11 +17,18 @@ Ultimate Camera relies on a resource pack to function.
 
 The plugin will automatically attempt to apply the correct resource pack for each player who joins the server. Because the shaders which Ultimate Camera uses change often, it is important that the correct version is applied based on the player's Minecraft version.
 
+If your server does not already have a resource pack, there is nothing else you need to do.
+
 :::accordion What if my server already has a resource pack?
 
 You will need to handle versioned resource packs yourself and disable the `automatic-packs` option in the `config.yml` file.
 
 Ultimate Camera will publish updated versions of the resource pack for each Minecraft version on [GitHub](// todo), and you should make sure to update your server's resource pack whenever a new version is released by copying the `assets/minecraft/shaders/core` and `assets/minecraft/shaders/include` folders into your pack.
+
+For the following versions:
+
+- Versions below 26.3-snapshot-3: Not supported by Ultimate Camera.
+- 26.3 (and snapshots after snapshot-3): use the [`26.3-snapshot-3`](//todo) resource pack.
 
 :::
 
