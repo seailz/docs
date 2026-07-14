@@ -5,7 +5,8 @@ order: 2
 ---
 
 Ultimate Camera is compatible with the following versions of Paper:
-- 26.3.x
+- 26.2
+- 26.3-snapshot-3
 
 ## Plugin
 
@@ -29,8 +30,9 @@ If your server supports multiple Minecraft versions, you will need to provide a 
 
 For the following versions:
 
-- Versions below 26.3-snapshot-3: Not supported by Ultimate Camera.
-- 26.3 (and snapshots after snapshot-3): use the [`26.3-snapshot-3`](// todo) resource pack.
+- Versions below 26.2: Not supported by Ultimate Camera.
+- 26.2.x: use the [`26.2`](// todo) resource pack.
+- 26.3-snapshot-3: use the [`26.3-snapshot-3`](// todo) resource pack.
 
 :::
 
