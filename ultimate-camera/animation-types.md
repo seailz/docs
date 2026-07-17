@@ -1,10 +1,9 @@
 ---
 title: Animation Types
 category: API Usage
-order: 2
+order: 5
 ---
 
-## Animation Types
 
 Ultimate Camera has two types of animations available in the API:
 

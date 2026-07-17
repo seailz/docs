@@ -1,7 +1,7 @@
 ---
 title: API Installation
 category: API Usage
-order: 1
+order: 4
 ---
 
 Once you've installed Ultimate Camera, you can start using the API to create cutscenes programmatically in your own plugin. It's included in the Ultimate Camera plugin, so you don't need to install it separately.

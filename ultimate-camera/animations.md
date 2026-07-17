@@ -1,7 +1,7 @@
 ---
 title: Animations
 category: API Usage
-order: 4
+order: 7
 ---
 
 ## Runtime Animation

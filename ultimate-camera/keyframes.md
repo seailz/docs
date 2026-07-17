@@ -1,7 +1,7 @@
 ---
 title: Keyframes
 category: API Usage
-order: 3
+order: 6
 ---
 A `Keyframe` defines the complete camera position at an absolute time.
 - X, Y, Z
