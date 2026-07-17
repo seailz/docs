@@ -24,7 +24,7 @@ If your server does not already have a resource pack, there is nothing else you 
 
 You will need to handle versioned resource packs yourself and disable the `automatic-packs` option in the `config.yml` file.
 
-Ultimate Camera will publish updated versions of the resource pack for each Minecraft version on [GitHub](// todo), and you should make sure to update your server's resource pack whenever a new version is released by copying the `assets/minecraft/shaders/core` and `assets/minecraft/shaders/include` folders into your pack.
+Ultimate Camera will publish updated versions of the resource pack for each Minecraft version on [GitHub](// todo) (they are also included in your BuiltByBit download), and you should make sure to update your server's resource pack whenever a new version is released by copying the `assets/minecraft/shaders/core` and `assets/minecraft/shaders/include` folders into your pack.
 
 If your server supports multiple Minecraft versions, you will need to provide a separate resource pack for each version and make sure that only the correct version is applied to each player. You can use the `versioned-packs` option in the `config.yml` file to specify which resource pack should be applied for each Minecraft version.
 
