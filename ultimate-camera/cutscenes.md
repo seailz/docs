@@ -45,4 +45,4 @@ The position space of the animation defines where keyframes actually are in rela
 
 When the cutscene is played, a player cannot see their own character. However, you can choose to create a "mimicking NPC" that will be visible to the player (and also other players) during the cutscene, creating an "out of body" experience. This feature requires [Citizens](https://www.spigotmc.org/resources/citizens.13811/) to be installed on the server.
 
-You can also choose to allow the player to control the mimicking NPC during the cutscene or not.
+You can also choose to allow the player to control the mimicking NPC during the cutscene or not. This requires [PacketEvents](https://modrinth.com/plugin/packetevents) to be installed on the server.

@@ -14,7 +14,7 @@ Make sure to download the latest version of Ultimate Camera from [BuiltByBit](ht
 
 ## Resource Pack
 
-Ultimate Camera relies on a resource pack to function.
+Ultimate Camera relies on a resource pack to function. Without it, cutscenes will not work properly.
 
 The plugin will automatically attempt to apply the correct resource pack for each player who joins the server. Because the shaders which Ultimate Camera uses change often, it is important that the correct version is applied based on the player's Minecraft version.
 
