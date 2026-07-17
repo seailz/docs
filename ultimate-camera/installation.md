@@ -32,7 +32,6 @@ For the following versions:
 
 - Versions below 26.2: Not supported by Ultimate Camera.
 - 26.2.x: use the 26.2 resource pack.
-- 
 :::
 
 ## Datapack
