@@ -6,7 +6,6 @@ order: 2
 
 Ultimate Camera is compatible with the following versions of Paper:
 - 26.2
-- 26.3-snapshot-3
 
 ## Plugin
 
@@ -24,16 +23,16 @@ If your server does not already have a resource pack, there is nothing else you 
 
 You will need to handle versioned resource packs yourself and disable the `automatic-packs` option in the `config.yml` file.
 
-Ultimate Camera will publish updated versions of the resource pack for each Minecraft version on [GitHub](// todo) (they are also included in your BuiltByBit download), and you should make sure to update your server's resource pack whenever a new version is released by copying the `assets/minecraft/shaders/core` and `assets/minecraft/shaders/include` folders into your pack.
+Ultimate Camera will publish updated versions of the resource pack for each Minecraft version on [GitHub](https://github.com/seailz/ultimate-camera-packs/releases/latest) (they are also included in your BuiltByBit download), and you should make sure to update your server's resource pack whenever a new version is released by copying the `assets/minecraft/shaders/core` and `assets/minecraft/shaders/include` folders into your pack.
+Make sure to download the correct version for your version of Ultimate Camera. You can find this by running `/version UltimateCamera` in-game.
 
 If your server supports multiple Minecraft versions, you will need to provide a separate resource pack for each version and make sure that only the correct version is applied to each player. You can use the `versioned-packs` option in the `config.yml` file to specify which resource pack should be applied for each Minecraft version.
 
 For the following versions:
 
 - Versions below 26.2: Not supported by Ultimate Camera.
-- 26.2.x: use the [`26.2`](// todo) resource pack.
-- 26.3-snapshot-3: use the [`26.3-snapshot-3`](// todo) resource pack.
-
+- 26.2.x: use the 26.2 resource pack.
+- 
 :::
 
 ## Datapack

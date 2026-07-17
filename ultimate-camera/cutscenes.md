@@ -30,7 +30,7 @@ Ultimate Camera provides a few different easing options built in.
 
 You can also modify the strength of the curve.
 
-Customizing the curve more than this is not supported due to tehcnical limitations, and easing functions need to be hard-coded into the resource pack. If you have a specific easing function in mind, please [create a support ticket in Discord,](https://discord.gg/QQKhZFxWAA) and we'll likely add it in a future update.
+Customizing the curve more than this is not supported due to technical limitations, and easing functions need to be hard-coded into the resource pack. If you have a specific easing function in mind, please [create a support ticket in Discord,](https://discord.gg/QQKhZFxWAA) and we'll likely add it in a future update.
 
 ## Cutscene Settings
 
