@@ -26,7 +26,7 @@ Ultimate Camera provides a few different easing options built in.
 - `Cubic out`: The camera will start fast and slow down as it approaches the next keyframe.
 - `Cubic in/out`: The camera will start slow, speed up, and then slow down again as it approaches the next keyframe.
 - `Back out`: The camera will overshoot the next keyframe and then come back to it, creating a more dynamic/bouncey movement.
-- `Out sine: The camera will start fast and slow down as it approaches the next keyframe, with a sine wave motion.
+- `Out Sine`: The camera will start fast and slow down as it approaches the next keyframe, with a sine wave motion.
 
 You can also modify the strength of the curve.
 
