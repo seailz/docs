@@ -39,7 +39,7 @@ You can modify global settings of a cutscene using the compass.
 ### Position space
 The position space of the animation defines where keyframes actually are in relation to the camera and world. There are two options:
 - **Fixed world position**: Keyframes are placed in the world at their actual coordinates. The animation will always play in the same location, regardless of where the player is when they start it. This is good for cutscenes that are meant to be played in a specific location, such as a cinematic or a scripted event.
-- **Relative to an origin point**: Keyframes are placed relative to an origin point. This can either be defined by you or it can eb set to the player's head location.
+- **Relative to an origin point**: Keyframes are placed relative to an origin point. This can either be defined by you or it can be set to the player's head location.
 
 ### Mimicking NPC
 
